@@ -8,7 +8,7 @@
 
 ### Palestra explanatória/motivacional
 
-> Ver [issue]()
+> Ver [issue](https://github.com/mabrasil/js4girls-fortaleza/issues/2)
 
 - **Responsável**: ![Status](https://img.shields.io/badge/palestrante-n%C3%A3o%20definido-lightgrey.svg?style=flat-square)
 - **Descrição**: Palestra dada por alguma mulher referência na TI local para mostrar a importância da inclusão
