@@ -78,6 +78,11 @@
 - **Responsável**: [Matheus](https://github.com/mabrasil)
 - **Valor**:
 
+#### Deway ![Status](https://img.shields.io/badge/patroc%C3%ADnio-pendente-lightgrey.svg?style=flat-square)
+
+- **Responsável**: [Wilmerson](https://github.com/wilmerson)
+- **Valor**:
+
 #### Astux ![Status](https://img.shields.io/badge/patroc%C3%ADnio-pendente-lightgrey.svg?style=flat-square)
 
 - **Responsável**: [Matheus](https://github.com/mabrasil)
