@@ -90,7 +90,11 @@
 
 #### Orçamento ![Status](https://img.shields.io/badge/patroc%C3%ADnio-pendente-lightgrey.svg?style=flat-square)
 
-- **Responsável**: [Wilmerson](https://github.com/wilmerson)
+- **Responsável**:  [Wilmerson](https://github.com/wilmerson)
+  - Camisas: R$ 22,00 x 30 unds - R$ 660,00
+  - Coffe-Break: R$ 8,00 x 30 pessoas - 240,00
+  - Brindes (Adesivos e etc): R$ 100 
+  - **Total: R$ 1000,00**
 
 ### Apoio
 
