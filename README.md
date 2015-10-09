@@ -26,7 +26,7 @@
 
 ### Introdução ao Javascript
 
-- **Responsável**: ![Status](https://img.shields.io/badge/palestrante-n%C3%A3o%20definido-lightgrey.svg?style=flat-square)
+- **Responsável**: ![Status](https://img.shields.io/badge/Abraão Alves-fechado-green.svg?style=flat-square)
 - **Duração**: 30 mins
 
 ###  Introdução à Estrutura de Dados
@@ -53,7 +53,7 @@
 
 ### JavaScript e o navegador
 
-- **Responsável**: ![Status](https://img.shields.io/badge/palestrante-n%C3%A3o%20definido-lightgrey.svg?style=flat-square)
+- **Responsável**: ![Status](https://img.shields.io/badge/Abraão Alves-fechado-green.svg?style=flat-square)
 - **Duração**: 60 mins
 
 ### Projeto Final
