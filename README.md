@@ -16,12 +16,12 @@
 
 ### Introdução ao HTML
 
-- **Responsável**: ![Status](https://img.shields.io/badge/palestrante-n%C3%A3o%20definido-lightgrey.svg?style=flat-square)
+- **Responsável**: ![Status](https://img.shields.io/badge/Cícero Viana-fechado-green.svg?style=flat-square)
 - **Duração**: 30 mins
 
 ### Introdução à CSS
 
-- **Responsável**: ![Status](https://img.shields.io/badge/palestrante-n%C3%A3o%20definido-lightgrey.svg?style=flat-square)
+- **Responsável**: ![Status](https://img.shields.io/badge/Cícero Viana-fechado-green.svg?style=flat-square)
 - **Duração**: 30 mins
 
 ### Introdução ao Javascript
@@ -31,7 +31,7 @@
 
 ###  Introdução à Estrutura de Dados
 
-- **Responsável**: ![Status](https://img.shields.io/badge/palestrante-n%C3%A3o%20definido-lightgrey.svg?style=flat-square)
+- **Responsável**: ![Status](https://img.shields.io/badge/Abraão Alves-fechado-green.svg?style=flat-square)
 - **Duração**: 30 mins
 
 ### Introdução à Lógica
@@ -58,7 +58,7 @@
 
 ### Projeto Final
 
-- **Responsável**: ![Status](https://img.shields.io/badge/palestrante-n%C3%A3o%20definido-lightgrey.svg?style=flat-square)
+- **Responsável**: ![Status](https://img.shields.io/badge/Cícero Viana-fechado-green.svg?style=flat-square)
 - **Duração**: 30 mins
 
 ## Pendências
