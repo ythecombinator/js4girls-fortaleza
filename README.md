@@ -19,7 +19,7 @@
 - **Responsável**: ![Status](https://img.shields.io/badge/Cícero Viana-fechado-green.svg?style=flat-square)
 - **Duração**: 30 mins
 
-### Introdução à CSS
+### Introdução a CSS
 
 - **Responsável**: ![Status](https://img.shields.io/badge/Cícero Viana-fechado-green.svg?style=flat-square)
 - **Duração**: 30 mins
@@ -29,7 +29,7 @@
 - **Responsável**: ![Status](https://img.shields.io/badge/Abraão Alves-fechado-green.svg?style=flat-square)
 - **Duração**: 30 mins
 
-###  Introdução à Estrutura de Dados
+###  Introdução a Estrutura de Dados
 
 - **Responsável**: ![Status](https://img.shields.io/badge/Abraão Alves-fechado-green.svg?style=flat-square)
 - **Duração**: 30 mins
@@ -51,7 +51,7 @@
 
 - **Duração**: 30 mins
 
-### JavaScript e o navegador
+### JavaScript e o Navegador
 
 - **Responsável**: ![Status](https://img.shields.io/badge/Abraão Alves-fechado-green.svg?style=flat-square)
 - **Duração**: 60 mins
@@ -94,7 +94,7 @@
 
 - **Responsável**:  [Wilmerson](https://github.com/wilmerson)
   - Camisas: R$ 22,00 x 30 unds - R$ 660,00
-  - Coffe-Break: R$ 8,00 x 30 pessoas - 240,00
+  - Coffee-Break: R$ 8,00 x 30 pessoas - 240,00
   - Brindes (Adesivos e etc): R$ 100
   - **Total: R$ 1000,00**
 
@@ -122,6 +122,6 @@
 #### Definir responsável por cada módulo ![Status](https://img.shields.io/badge/status-pendente-lightgrey.svg?style=flat-square)
 
 - **Responsáveis**:
-  - [Abrrão](https://github.com/AbraaoAlves)
+  - [Abraão](https://github.com/AbraaoAlves)
   - [Cícero](https://github.com/cicerohen)
   - [RVM](https://github.com/vitormalencar)
